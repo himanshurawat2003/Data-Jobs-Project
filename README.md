@@ -18,3 +18,5 @@ This project explores data science job roles and salaries using SQL for data pro
 
 ## Conclusion
 This project provides valuable insights into data science job landscapes, offering a concise view of salary trends, popular job titles, and evolving opportunities within the domain.
+
+## BLOG LINK :- https://medium.com/@himanshu_rawat2003/analyzing-data-science-job-salaries-a-sql-and-power-bi-exploration-04ce932b6c40
